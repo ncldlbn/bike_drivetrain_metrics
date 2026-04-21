@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import io
 
-st.set_page_config(page_title="Bike trasmission metrics")
+st.set_page_config(page_title="Bike drivetrain metrics")
 
 TIRES = {
     "BDC (Road)": {
